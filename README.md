@@ -1,4 +1,9 @@
-## Hi there 👋
+<a href="mailto:VSIgnashev@gmail.com"><img src="envelope_icon.svg" align="center" height="40" alt="letter-icon"></a> <VSIgnashev@gmail.com></img>
+<br>
+<a href="t.me/VSIgnashev"><img src="tg_icon.svg" align="center" height="40" alt="letter-icon"> VSIgnashev</img></a>
+
+<h2>My projects:</h2>
+<li> [Quz project](https://github.com/VSIgnashev/Quiz-frontend)</li>
 
 <!--
 **VSIgnashev/VSIgnashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
