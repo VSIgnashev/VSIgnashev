@@ -1,6 +1,6 @@
 <a href="mailto:VSIgnashev@gmail.com"><img src="envelope_icon.svg" align="center" height="40" alt="letter-icon"></a> <VSIgnashev@gmail.com></img>
 <br>
-<a href="t.me/VSIgnashev"><img src="tg_icon.svg" align="center" height="40" alt="letter-icon"> VSIgnashev</img></a>
+<a href="https://t.me/VSIgnashev"><img src="tg_icon.svg" align="center" height="40" alt="letter-icon"> VSIgnashev</img></a>
 
 # My projects
 - [Food diary project (currently in active development)](https://github.com/VSIgnashev/Kuzya-next)
